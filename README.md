@@ -4,10 +4,10 @@ Bu depo, C++ ve SFML kullanarak oyun geliştirmeye başlamanız için gereken **
 
 ## 🚀 Nasıl Kullanılır?
 
-1. Yukarıdaki yeşil **"Code"** butonuna tıklayın ve **"Download ZIP"** seçeneğini seçerek dosyayı bilgisayarınıza indirin.
+1. Yandaki **Releases** kısmından **"SFML Başlangıç Paketi (Derleyici Dahil) Latest"** tıklayarak dosyayı bilgisayarınıza indirin.
 2. **ÇOK ÖNEMLİ:** İnen ZIP dosyasını açıp içindekileri masaüstünüzde (veya belgelerinizde) normal bir klasöre **çıkartın**! *(ZIP'in içindeyken başlatırsanız çalışmaz).*
 3. Klasörün içindeki `main.cpp` dosyasını Visual Studio Code ile açıp kodunuzu yazın ve kaydedin.
-4. Klasördeki **`baslat.bat`** dosyasına çift tıklayın. Kodunuz otomatik derlenecek ve oyun açılacaktır!
+4. Klasördeki **`run.bat`** dosyasına çift tıklayın. Kodunuz otomatik derlenecek ve oyun açılacaktır!
 
 ### ⚠️ Olası Hatalar ve Çözümleri:
 * **"Windows Kişisel Bilgisayarınızı Korudu" (Mavi Ekran) Uyarısı:** Windows, internetten indirilen `.bat` dosyalarına şüpheyle yaklaşır. Bu ekran çıkarsa önce **"Ek bilgi"** yazısına, ardından **"Yine de çalıştır"** butonuna basın.
