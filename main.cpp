@@ -2,7 +2,6 @@
 #include <SFML/Window.hpp>
 #include <optional>
 #include <iostream>
-#include <event.hpp>
 
 int main() {
     // 1. PENCERE OLUŞTURMA
